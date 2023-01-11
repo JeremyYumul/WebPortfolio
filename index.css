@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-family: "Courier New", monospace;
+    font-size: 35px;
+    color: burlywood;
+
+}
+
+p { 
+    text-align: center;
+    color: black;
+}
+
+#top {
+    display: flex;
+    justify-content: center;
+}
+
+#top a{
+        text-align: center;
+        border-width: 30px;
+        border-style: solid;
+        border-color: burlywood;
+        width: 100%;
+        color: black;
+}
+
+#aboutme p{
+    text-align: justify;
+    font-family: "Courier New", monospace;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    widows: 350px;
+}
